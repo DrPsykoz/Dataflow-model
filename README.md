@@ -9,3 +9,10 @@ Set the DEBUG_MODE variable to False and run the following command in the folder
 ```sh
 python3 -m main
 ```
+
+## How to run the model in local ?
+Set the DEBUG_MODE variable to True and run the following command in the folder of the project
+
+```sh
+python3 -m main
+```
